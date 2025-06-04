@@ -1,0 +1,1 @@
+1. **Meta Learning**: Meta-learning, also known as "learning to learn", is a paradigm where a model learns how to adapt to new tasks quickly — by observing how to learn across many tasks. Instead of just training on one fixed task, the meta-learner gathers knowledge about *how* learning itself works.
