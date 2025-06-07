@@ -1,6 +1,6 @@
 # Few-Shot Classification of Skin Disease Images Using Prototypical Networks (Meta-Learning)
 
-**(This project is not complete yet)**
+**(This project is still in progress)**
 
 ## Introduction
 In recent years, the use of machine learning and deep learning in the healthcare domain has expanded significantly. Among various applications, the analysis and classification of medical images play a crucial role in enabling faster and more accurate diagnosis. Despite notable advances, one of the key challenges in practical adoption of these technologies in medicine is the lack of labeled data. This issue arises due to various reasons such as patient privacy concerns, high costs of data collection and annotation, and the need for expert knowledge to produce high-quality datasets.
