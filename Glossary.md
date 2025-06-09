@@ -19,3 +19,7 @@ Essential for meta-learning where fast adaptation with few examples is needed.
 
 6. **Latent Space**: A hidden, compressed representation space where raw data (like images or text) is mapped into simpler forms (vectors).
 In this space, important features and patterns are captured, making it easier for models to understand and process data efficiently.
+
+7. **Support Set**: A small labeled dataset used by the model to learn a specific task during one episode.
+
+8. **Query Set**: A small labeled dataset used to evaluate the model after learning from the support set
